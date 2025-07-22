@@ -4,6 +4,7 @@ An easy-to-use full-stack web app for booking doctor appointments online!
 Patients can book slots 🗓️, doctors can manage schedules 🩺, and admins control everything ⚙️.
 
 ---
+<img width="999" height="217" alt="Screenshot 2025-05-27 205144" src="https://github.com/user-attachments/assets/e9756f9c-a237-430c-b080-0bcc2688ac65" />
 
 ## 🚀 Features
 
