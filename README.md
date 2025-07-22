@@ -30,6 +30,10 @@ Patients can book slots 🗓️, doctors can manage schedules 🩺, and admins c
 
 ---
 
+## 🔗 Live Demo
+
+👉 [Check it Out on Render 🌐](https://hospo-1-02h8.onrender.com)
+
 ## 🚀 How to Run the Project
 
 ### 🧩 Step 1: Clone the Repo
@@ -98,15 +102,7 @@ Can manage 🧑‍⚕️ doctors, 👥 users, 📅 appointments
 Only accessible to users with admin role
 
 
-🧑‍💼 Admin Panel
-Admin Login 👉 /admin/login
 
-Can manage 🧑‍⚕️ doctors, 👥 users, 📅 appointments
-
-Only accessible to users with admin role
-
-🌐 Live Demo
-🚨 frontend - https://hospo-1-02h8.onrender.com
 
 
 📝 Author
