@@ -16,8 +16,6 @@ Patients can book slots 🗓️, doctors can manage schedules 🩺, and admins c
 - 🧠 Node.js + Express  
 - 🗄️ MongoDB + Mongoose  
 - 🔐 JWT + bcrypt (Authentication)  
-- ✉️ Nodemailer (Emails)  
-- 📲 Twilio (SMS)
 
 ---
 
