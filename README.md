@@ -3,10 +3,10 @@
 An easy-to-use full-stack web app for booking doctor appointments online!  
 Patients can book slots 🗓️, doctors can manage schedules 🩺, and admins control everything ⚙️.
 
----
-C:\Users\91878\Downloads\Hospo\prescripto-full-stack\frontend\src\assets\Screenshot (147).png
-C:\Users\91878\Downloads\Hospo\prescripto-full-stack\frontend\src\assets\Screenshot (148).png
-C:\Users\91878\Downloads\Hospo\prescripto-full-stack\frontend\src\assets\Screenshot (149).png
+<img width="1920" height="906" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/87c0afca-6861-4023-9c4a-1a9c22329fe7" />
+<img width="1905" height="704" alt="Screenshot (148)" src="https://github.com/user-attachments/assets/cb578281-ba7f-43be-8d24-a3fe237bfa07" />
+<img width="1920" height="847" alt="Screenshot (147)" src="https://github.com/user-attachments/assets/1db9eabe-68f2-4f2a-bd15-838ac47e90a9" />
+
 
 ## 🚀 Features
 
