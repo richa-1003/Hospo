@@ -15,6 +15,9 @@ Patients can book slots 🗓️, doctors can manage schedules 🩺, and admins c
 - 📊 **Admin Dashboard** to manage doctors, users, and appointments
 - 📱 **Responsive UI** for mobile, tablet, and desktop
 
+(assets/Screenshot (147).png)
+(assets/Screenshot (148).png)
+(assets/Screenshot (149).png)
 
 ## 🔧 Tech Stack
 
